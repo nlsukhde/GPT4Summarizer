@@ -8,7 +8,9 @@ const Hero = () => {
 
         <button
           type="button"
-          onClick={() => window.open("https://github.com/nlsukhde")}
+          onClick={() =>
+            window.open("https://github.com/nlsukhde/ai-summarizer")
+          }
           className="black_btn"
         >
           Github
@@ -19,8 +21,9 @@ const Hero = () => {
         <span className="orange_gradient">OpenAi GPT-4</span>
       </h1>
       <h2 className="desc">
-        Simplify your reading with Summize, an open-source article summarizer
-        that transforms lengthy articles into clear and concise summaries
+        Simplify your reading with this GPT-4 powered AI Summarizer. Paste any
+        link from the web including the http tag, and get an easy readable
+        summary. Works with articles or any website you want information on!
       </h2>
     </header>
   );
