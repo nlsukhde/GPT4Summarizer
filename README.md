@@ -1,8 +1,3 @@
-# React + Vite
+This website utilizes RAPID API's Article Extractor and Summarizer to return summaries of webpages to the user. It tracks history of inputs which they can go back to and copy the links of. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fully working site at https://gpt4summarizer.vercel.app/
